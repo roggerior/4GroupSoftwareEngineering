@@ -5,6 +5,6 @@
 * [Composer](https://getcomposer.org/) - Gerenciador de dependências
 * [PHP](http://php.net/downloads.php) - Poder ser utilizando XAMPP ou WAMP
 ### Baixe o projeto no repositório do GitHub (Deve ter o git instalado)
-<p>git clone https://github.com/roggerior/4GroupSoftwareEngineering.git</p>
+<pre>git clone https://github.com/roggerior/4GroupSoftwareEngineering.git</pre>
 ### Dentro do diretório do projeto execute o comando
-<p> php artisan serve </p>
+<pre> php artisan serve </pre>
