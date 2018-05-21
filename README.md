@@ -7,4 +7,4 @@
 ### Baixe o projeto no repositório do GitHub (Deve ter o git instalado)
 <p>git clone https://github.com/roggerior/4GroupSoftwareEngineering.git</p>
 ### Dentro do diretório do projeto execute o comando
-<pre> php artisan serve </pre>
+<p> php artisan serve </p>
