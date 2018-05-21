@@ -1,12 +1,10 @@
 # 4GroupSoftwareEngineering
-</br>
 ## Instruções para execução 
-</br>
-### Instale o Laravel e as ferramentas necessárias
-<https://laravel.com/docs/5.6>
-</br>
+### Instale as ferramentas necessárias
+* [Laravel](https://laravel.com/docs/5.6/) - Framework utilizado
+* [Composer](https://getcomposer.org/) - Gerenciador de dependências
+* [PHP](http://php.net/downloads.php) - Poder ser utilizando XAMPP ou WAMP
 ### Baixe o projeto no repositório do GitHub (Deve ter o git instalado)
 <p>git clone https://github.com/roggerior/4GroupSoftwareEngineering.git</p>
-</br>
 ### Dentro do diretório do projeto execute o comando
 <pre> php artisan serve </pre>
