@@ -127,6 +127,18 @@ return [
             'icon'        => 'cogs',
             'label_color' => 'success',
         ],
+        [
+            'text'        => 'Gerar Relatório',
+            'url'         => 'log',
+            'icon'        => 'file-text',
+            'label_color' => 'success',
+        ],
+        [
+            'text'        => 'Gerar Backup de Dados',
+            'url'         => 'backup',
+            'icon'        => 'database',
+            'label_color' => 'success',
+        ],
         'CONFIGURAÇÕES DE CONTA',
         [
             'text' => 'Perfil',
